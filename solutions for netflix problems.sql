@@ -1,3 +1,4 @@
+-- SCHEMAS of Netflix
 CREATE TABLE netflix(
 	show_id		VARCHAR(6),
 	type	VARCHAR(10),
